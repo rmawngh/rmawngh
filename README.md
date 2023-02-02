@@ -1,16 +1,18 @@
-### Hi there 👋
+# Juho Kim
 
-<!--
-**rmawngh/rmawngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
 
-Here are some ideas to get you started:
+###My research interests are:
+- Computer Vision
+- Depth Estimation
+- Object Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###My research story
+####B.S in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none) (Mar,2015 ~ Feb,2021)
+- Malware Detection using LSTM (2019)
+- Emotion Recognition (2020)
+
+####M.S in in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0) at [Korea University](https://www.korea.ac.kr) (Feb,2021 ~ Present) 
+- [Depth Estimation using Old Photo](https://github.com/rmawngh/Old-Photo-3D)
+- [Low-light Dataset for detection and segmentation](https://github.com/rmawngh/Low_light_Dataset)
+- Dark Face Detection (Ongoing ~ )
