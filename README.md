@@ -8,7 +8,7 @@ M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authus
 - Object Detection
 
 ### My research story
-#### B.S in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none) (Mar,2015 ~ Feb,2021)
+#### B.S in [Multimedia Engineering](https://mme.dongguk.edu/k3/index.php) at [Dongguk University](https://www.dongguk.edu/main#none) (Mar,2015 ~ Feb,2021)
 - Malware Detection using LSTM (2019)
 - Emotion Recognition (2020)
 
