@@ -9,7 +9,7 @@ Welcome to My Github :)
 
 #### B.S in [Multimedia Engineering](https://mme.dongguk.edu/k3/index.php) at [Dongguk University](https://www.dongguk.edu/main#none) (Mar,2015 ~ Feb,2021)
 - Malware Detection using LSTM (2019)
-- Emotion Recognition (2020)
+- Facial Emotion Recognition (2020)
 
 
 ### My research interests are:
