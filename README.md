@@ -2,10 +2,10 @@
 
 Welcome to My Github :)
 
-#### M.S student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0) at [Korea University](https://www.korea.ac.kr) (Feb,2021 ~ Present) 
+#### M.S student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0) at [Korea University](https://www.korea.ac.kr) (Feb,2021 ~ Aug,2023) 
 - [Depth Estimation using Old Photo](https://github.com/rmawngh/Old-Photo-3D)
 - [Low-light Dataset for detection and segmentation](https://github.com/rmawngh/Low_light_Dataset)
-- Face Detection in low light (Ongoing ~ )
+- Face Detection in low light
 
 #### B.S in [Multimedia Engineering](https://mme.dongguk.edu/k3/index.php) at [Dongguk University](https://www.dongguk.edu/main#none) (Mar,2015 ~ Feb,2021)
 - Malware Detection using LSTM (2019)
