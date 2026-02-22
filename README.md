@@ -2,7 +2,10 @@
 
 Welcome to My Github :)
 
-#### Engineer in the Samsung Electronics (Oct,2023 ~ present)
+#### Engineer at Samsung Electronics (Oct,2023 ~ present)
+- Efficient Dense Prediction: Optimizing Vision Foundation Models for depth estimation.
+- Model Compression: Parameter-Efficient Fine-Tuning (PEFT), Token Pooling.
+- Knowledge Distillation: Enhancing lightweight models using teacher-student frameworks.
 
 #### M.S in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0) at [Korea University](https://www.korea.ac.kr) (Feb,2021 ~ Aug,2023) 
 - [Depth Estimation using Old Photo](https://github.com/rmawngh/Old-Photo-3D)
