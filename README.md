@@ -4,7 +4,7 @@ Welcome to My Github :)
 
 #### Engineer at Samsung Electronics (Oct,2023 ~ present)
 - **Efficient Dense Prediction:** Optimizing Vision Foundation Models for depth estimation.
-- **Model Compression:** Parameter-Efficient Fine-Tuning (PEFT), Token Pooling.
+- **Model Compression:** Parameter-Efficient Fine-Tuning (PEFT)
 - **Knowledge Distillation:** Enhancing lightweight models using teacher-student frameworks.
 
 #### M.S in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0) at [Korea University](https://www.korea.ac.kr) (Feb,2021 ~ Aug,2023) 
