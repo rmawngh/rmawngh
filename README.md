@@ -20,7 +20,7 @@ Welcome to My Github :)
 ### My research interests are:
 - Computer Vision
 - Depth Estimation
-- Object Detection
+- Model Compression & PEFT
 
 My Website is [here](https://rmawngh.github.io/).
 
